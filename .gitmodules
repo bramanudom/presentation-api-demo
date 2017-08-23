@@ -1,0 +1,3 @@
+[submodule "presentation-api-samples"]
+	path = presentation-api-samples
+	url = https://github.com/GoogleChrome/presentation-api-samples.git
